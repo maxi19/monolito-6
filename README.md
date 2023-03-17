@@ -1,1 +1,5 @@
 # monolito-6
+Magali Aguilar
+Matias Escalera
+Camelia Cienfuegos
+Marlene Mosimann
