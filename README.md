@@ -1,6 +1,6 @@
 # monolito-6
 Magali Aguilar
-Matias Escalera
+Matias Escalera Ortega
 Camelia Cienfuegos
 Marlen Mosimann
 
